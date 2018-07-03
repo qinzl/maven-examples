@@ -4,7 +4,7 @@
 
     <groupId>org.codetab</groupId>
     <artifactId>simple-multi</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-dev-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Maven Simple Multi Module Example</name>
 
@@ -17,7 +17,7 @@
     </distributionManagement>
 
     <properties>
-        <branch.depend.version>-beat-1</branch.depend.version>
+        <branch.depend.version>-dev-SNAPSHOT</branch.depend.version>
     </properties>
 
     <dependencyManagement>

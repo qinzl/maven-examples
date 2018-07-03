@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.codetab</groupId>
         <artifactId>simple-multi</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-dev-SNAPSHOT</version>
     </parent>
     <artifactId>util</artifactId>
     <name>Simple Util</name>
