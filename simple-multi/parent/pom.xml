@@ -25,7 +25,7 @@
             <dependency>
                 <groupId>org.keycloak</groupId>
                 <artifactId>keycloak-services</artifactId>
-                <version>1.0-beat-1/version>
+                <version>1.0-beat-1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
